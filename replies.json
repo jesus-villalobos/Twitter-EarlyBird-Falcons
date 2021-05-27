@@ -1,26 +1,20 @@
 [
-	{
-    "id": 123,
-  	"text": "Happy Birthday!",
-   	"author": "Glyne Gittens",
-    "handle": "@GlyneGittens"
-	},
-	{
-    "id": 456,
-  	"text": "Feliz Cumpleaños!",
-    "author": "Jessica Cavazos Erhard",
-    "handle": "@puppyyTest"
-	},
-	{
-    "id": 786,
-  	"text": "It's been an amazing evening.",
-    "author": "Susan Neth",
-    "handle": "@soozinbird"
-	},
+  {
+    "id": 888,
+    "text": "Twitter is basically the best thing ever!!!",
+    "author": "Beatrice Ndalichako",
+    "handle": "@bllndalichako"
+  },
+  {
+    "id": 333,
+    "text": "Can someone teach me how to use this? lol",
+    "author": "Francisco MH",
+    "handle": "@fmacossay3"
+  },
   {
     "id": 36,
     "text": "Hello World",
     "author": "Jesus Villalobos",
-    "handle": "@jesusv"
+    "handle": "@jesusv__"
   }
 ]
